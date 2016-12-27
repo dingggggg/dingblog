@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://D:/blog/dingblog/index.html" line="11" />
-    <bookmark url="file://D:/blog/dingblog/src/components/Hello.vue" line="12" />
+    <bookmark url="file://$PROJECT_DIR$/index.html" line="11" />
+    <bookmark url="file://$PROJECT_DIR$/src/components/Hello.vue" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12043e3-5c6e-4dbf-937a-8b8254e2b86f" name="Default" comment="" />
+    <list default="true" id="e12043e3-5c6e-4dbf-937a-8b8254e2b86f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+    </list>
     <ignored path="ding.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="D:/blog/ding/.tmp/" />
-    <ignored path="D:/blog/ding/temp/" />
-    <ignored path="D:/blog/ding/tmp/" />
+    <ignored path="$PROJECT_DIR$/../ding/.tmp/" />
+    <ignored path="$PROJECT_DIR$/../ding/temp/" />
+    <ignored path="$PROJECT_DIR$/../ding/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,17 +32,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://D:/blog/dingblog/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="check-versions.js" pinned="false" current-in-tab="false">
-        <entry file="file://D:/blog/dingblog/build/check-versions.js">
+        <entry file="file://$PROJECT_DIR$/build/check-versions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
@@ -48,7 +52,7 @@
         </entry>
       </file>
       <file leaf-file-name="Hello.vue" pinned="false" current-in-tab="false">
-        <entry file="file://D:/blog/dingblog/src/components/Hello.vue">
+        <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
@@ -62,7 +66,7 @@
         </entry>
       </file>
       <file leaf-file-name="dev-server.js" pinned="false" current-in-tab="false">
-        <entry file="file://D:/blog/dingblog/build/dev-server.js">
+        <entry file="file://$PROJECT_DIR$/build/dev-server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
@@ -72,7 +76,7 @@
         </entry>
       </file>
       <file leaf-file-name="a.js" pinned="false" current-in-tab="false">
-        <entry file="file://D:/blog/dingblog/a.js">
+        <entry file="file://$PROJECT_DIR$/a.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
@@ -90,23 +94,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="D:/blog/ding/.editorconfig" />
-        <option value="D:/blog/ding/.eslintignore" />
-        <option value="D:/blog/ding/build/dev-client.js" />
-        <option value="D:/blog/ding/a.js" />
-        <option value="D:/blog/ding/build/dev-server.js" />
-        <option value="D:/blog/ding/src/components/Hello.vue" />
-        <option value="D:/blog/ding/build/check-versions.js" />
-        <option value="D:/blog/ding/index.html" />
+        <option value="$PROJECT_DIR$/../ding/.editorconfig" />
+        <option value="$PROJECT_DIR$/../ding/.eslintignore" />
+        <option value="$PROJECT_DIR$/../ding/build/dev-client.js" />
+        <option value="$PROJECT_DIR$/../ding/a.js" />
+        <option value="$PROJECT_DIR$/../ding/build/dev-server.js" />
+        <option value="$PROJECT_DIR$/../ding/src/components/Hello.vue" />
+        <option value="$PROJECT_DIR$/../ding/build/check-versions.js" />
+        <option value="$PROJECT_DIR$/../ding/index.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="D:/blog/dingblog/package.json" />
+    <package-json value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -117,14 +124,14 @@
       <scroll-view-position x="0" y="0" />
       <selected-paths>
         <path>
-          <id value="D:/blog/ding/package.json" />
+          <id value="$PROJECT_DIR$/../ding/package.json" />
           <id value="dev" />
         </path>
       </selected-paths>
     </layout>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="D:/blog/dingblog/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -174,9 +181,14 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dingblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="dingblog" />
@@ -189,17 +201,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="D:/node/node" />
-    <property name="last_opened_file_path" value="D:/blog/ding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="editor.config.accepted" value="true" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="D:\blog\dingblog\node_modules\mocha" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -256,7 +270,7 @@
       <method />
     </configuration>
     <configuration default="false" name="dev" type="js.build_tools.npm" factoryName="npm" nameIsGenerated="true">
-      <package-json value="D:/blog/ding/package.json" />
+      <package-json value="$PROJECT_DIR$/../ding/package.json" />
       <command value="run-script" />
       <scripts>
         <script value="dev" />
@@ -280,16 +294,17 @@
       <option name="presentableId" value="Default" />
       <updated>1482739693727</updated>
       <workItem from="1482739695040" duration="3922000" />
-      <workItem from="1482743844461" duration="576000" />
+      <workItem from="1482743844461" duration="1455000" />
+      <workItem from="1482804335883" duration="164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4498000" />
+    <option name="totallyTimeSpent" value="5541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -326,7 +341,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/blog/dingblog/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -334,7 +349,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/build/check-versions.js">
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
@@ -342,7 +357,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/src/components/Hello.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
@@ -354,7 +369,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/build/dev-server.js">
+    <entry file="file://$PROJECT_DIR$/build/dev-server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
@@ -362,7 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/a.js">
+    <entry file="file://$PROJECT_DIR$/a.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
@@ -370,50 +385,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/.gitignore">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding>
+            <marker date="1482743437052" expanded="true" signature="52:205" ph="{&quot;name&quot;: 'hello'...}" />
+            <marker date="1482743437052" expanded="true" signature="91:199" ph="{...}" />
+            <marker date="1482743437052" expanded="true" signature="112:189" ph="{&quot;msg&quot;: 'Welcome to Your Vue.js Appssssssssssss'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/.project">
+    <entry file="file://$PROJECT_DIR$/.project">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/build/dev-client.js">
+    <entry file="file://$PROJECT_DIR$/build/dev-client.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/.editorconfig">
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/.eslintignore">
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,11 +475,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/a.js">
+    <entry file="file://$PROJECT_DIR$/a.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
@@ -433,7 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/build/dev-server.js">
+    <entry file="file://$PROJECT_DIR$/build/dev-server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
@@ -441,7 +494,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/src/components/Hello.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
@@ -453,7 +506,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/build/check-versions.js">
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
@@ -461,10 +514,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/blog/dingblog/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
